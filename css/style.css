@@ -1,0 +1,48 @@
+#container{
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#select2,#select4,#select6, #select8, #select10, #select12, #select14, #select16{
+    margin-left: 1rem;
+}
+
+select {
+    background-color:antiquewhite;
+    padding: 3px;
+    cursor: pointer;
+}
+
+label {
+    font-size: 18px;
+}
+
+table {
+    margin-top: 10px;
+}
+
+b {
+    color: black;
+}
+
+caption{
+    caption-side : bottom;
+}
+
+td {
+    text-align: center;
+    color:black;
+}
+
+tr{
+    text-align: center;
+}
+
+thead{
+    background-color:slategray;
+}
+
+tbody{
+    background-color: darkgray;
+}
+
